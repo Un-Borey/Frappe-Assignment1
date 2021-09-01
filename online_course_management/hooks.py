@@ -173,3 +173,4 @@ user_data_fields = [
 # 	"online_course_management.auth.validate"
 # ]
 
+fixtures = ["Property Setter","Client Script","Server Script","Custom Field"]
